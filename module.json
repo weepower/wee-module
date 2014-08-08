@@ -1,19 +1,21 @@
 {
 	"name": "Wee Module",
-	"description": "This is a template for building a Wee module.",
+	"description": "Template for creating Wee modules.",
 	"version": "1.0.0",
 	"author": "Wee",
 	"homepage": "http://www.weepower.com",
 	"autoload": true,
-	"assets": "assets",
-	"components": {
-		"css": "css",
-		"js": "js"
+	"style": {
+		"build": [
+			"css/*.less"
+		]
 	},
-	"build": [
-
-	],
-	"require": {
-
+	"script": {
+		"build": [
+			"js/*.js"
+		]
+	},
+	"dependencies": {
+		"weepower/wee": "2.x.x"
 	}
 }
