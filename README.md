@@ -1,4 +1,4 @@
-# [Wee Module 1.0.0](https://github.com/weepower/wee)
+# [Wee Module 0.1.1](https://github.com/weepower/wee)
 
 Template for creating Wee modules. To read more, visit [weepower.com](http://www.weepower.com).
 
@@ -20,7 +20,7 @@ Wee adheres to [Semantic Versioning](http://semver.org/) in the form of MAJOR.MI
 
 ## Community
 
-Keep track of development and news by following [@weecss on Twitter](https://twitter.com/weecss) or reading the [Wee blog](http://www.weepower.com/blog).
+Keep track of development and news by following [@weecss on Twitter](https://twitter.com/weecss).
 
 ## License
 

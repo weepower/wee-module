@@ -1,1 +1,1 @@
-// Add custom JavaScript here
+// Core JavaScript here

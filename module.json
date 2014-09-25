@@ -7,15 +7,16 @@
 	"autoload": true,
 	"style": {
 		"build": [
-			"css/*.less"
+			"css/variables.less",
+			"css/screen.less"
 		]
 	},
 	"script": {
 		"build": [
-			"js/*.js"
+			"js/script.js"
 		]
 	},
 	"dependencies": {
-		"weepower/wee": "2.x.x"
+		"wee": "2.x.x"
 	}
 }
