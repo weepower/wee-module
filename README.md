@@ -7,7 +7,7 @@ Template for creating Wee modules. To read more, visit [weepower.com](http://www
 Get started with Wee using one of these methods:
 
 * [Download the latest release](https://github.com/weepower/wee-module/archive/master.zip) or
-* Clone the repository from `git clone git://github.com/weepower-module/wee.git` or
+* Clone the repository from `git clone git://github.com/weepower/wee-module/wee.git` or
 
 ## Bugs
 
