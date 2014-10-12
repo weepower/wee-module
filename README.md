@@ -1,4 +1,4 @@
-# [Wee Module 0.1.1](https://github.com/weepower/wee)
+# [Wee Module 0.1.2](https://github.com/weepower/wee-module)
 
 Template for creating Wee modules. To read more, visit [weepower.com](http://www.weepower.com).
 
@@ -7,16 +7,16 @@ Template for creating Wee modules. To read more, visit [weepower.com](http://www
 Get started with Wee using one of these methods:
 
 * [Download the latest release](https://github.com/weepower/wee-module/archive/master.zip) or
-* Clone the repository from `git clone git://github.com/weepower/wee-module/wee.git` or
+* Clone the repository from `git clone git://github.com/weepower/wee-module.git`
 
 ## Bugs
 
-Have a bug or a feature request? [Open a new issue](https://github.com/weepower/wee-module/issues).  
-To view the working Wee todo list check out our public [Trello board](https://trello.com/b/7KbnQra9/wee).
+Have a bug or a feature request? [Open a new issue](https://github.com/weepower/wee-module/issues).
+To view the working Wee to-do list check out our public [Trello board](https://trello.com/b/7KbnQra9/wee).
 
 ## Versioning
 
-Wee adheres to [Semantic Versioning](http://semver.org/) in the form of MAJOR.MINOR.PATCH. Regardless of version we always recommend you thoroughly review the [changelog](https://github.com/weepower/wee-module/blob/development/CHANGELOG.md) before updating.
+Wee adheres to [Semantic Versioning](http://semver.org/) in the form of MAJOR.MINOR.PATCH. Regardless of version we always recommend you thoroughly review the [changelog](https://github.com/weepower/wee-module/blob/master/CHANGELOG.md) before updating
 
 ## Community
 

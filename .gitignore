@@ -1,0 +1,15 @@
+# System
+Thumbs.db
+.DS_Store
+.tmp
+.cache
+*.diff
+*.tmproj
+*.err
+*.orig
+*.swp
+*.out
+*.gem
+*.log
+*.lock
+*.vi
