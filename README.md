@@ -1,4 +1,4 @@
-# [Wee Module 0.1.2](https://github.com/weepower/wee-module)
+# [Wee Module](http://www.weepower.com)
 
 Template for creating Wee modules. To read more, visit [weepower.com](http://www.weepower.com).
 
@@ -16,7 +16,7 @@ To view the working Wee to-do list check out our public [Trello board](https://t
 
 ## Versioning
 
-Wee adheres to [Semantic Versioning](http://semver.org/) in the form of MAJOR.MINOR.PATCH. Regardless of version we always recommend you thoroughly review the [changelog](https://github.com/weepower/wee-module/blob/master/CHANGELOG.md) before updating
+Wee adheres to [Semantic Versioning](http://semver.org/) in the form of MAJOR.MINOR.PATCH. Regardless of version we always recommend thoroughly reviewing the [changelog](https://github.com/weepower/wee-module/blob/master/CHANGELOG.md) before updating.
 
 ## Community
 
@@ -30,7 +30,7 @@ Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
 You may obtain a copy of the License at
 
-    http://www.apache.org/licenses/LICENSE-2.0
+	http://www.apache.org/licenses/LICENSE-2.0
 
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an "AS IS" BASIS,

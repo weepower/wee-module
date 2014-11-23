@@ -1,6 +1,6 @@
 {
-	"name": "Wee Module",
-	"description": "Template for creating Wee modules.",
+	"name": "Module Name",
+	"description": "Module description.",
 	"version": "1.0.0",
 	"author": "Wee",
 	"homepage": "http://www.weepower.com",
