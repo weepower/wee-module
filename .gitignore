@@ -2,7 +2,22 @@
 	# Project
 #------------------------------------
 
-# custom rules here
+# Custom exclusions here
+
+
+#------------------------------------
+	# Tools
+#------------------------------------
+
+.idea
+.settings
+.bundle
+mixture.json
+prepros.json
+codekit-config.json
+browserstack.json
+BrowserStackLocal
+*.sublime-*
 
 
 #------------------------------------
@@ -23,3 +38,11 @@ Thumbs.db
 *.log
 *.lock
 *.vi
+*.pid
+
+
+#------------------------------------
+	# Gitkeep
+#------------------------------------
+
+!.gitkeep

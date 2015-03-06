@@ -3,7 +3,7 @@
 	"description": "Module description.",
 	"version": "1.0.0",
 	"author": "Wee",
-	"homepage": "http://www.weepower.com",
+	"homepage": "https://www.weepower.com",
 	"autoload": true,
 	"style": {
 		"build": [
@@ -17,6 +17,6 @@
 		]
 	},
 	"dependencies": {
-		"wee": "2.x.x"
+		"wee": "^2.1.0"
 	}
 }
