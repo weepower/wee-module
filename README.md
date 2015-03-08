@@ -9,6 +9,8 @@ Get started using one of these methods:
 * [Download the latest release](https://github.com/weepower/wee-module/archive/master.zip) or
 * Clone the repository from `git clone git://github.com/weepower/wee-module.git`
 
+Then simply place the "wee-module" directory to your modules folder.
+
 ## Bugs
 
 Have a bug or a feature request? [Open a new issue](https://github.com/weepower/wee-module/issues).
