@@ -5,6 +5,9 @@
 	"author": "Wee",
 	"homepage": "https://www.weepower.com",
 	"autoload": true,
+	"data": {
+
+	},
 	"style": {
 		"build": [
 			"css/variables.less",
@@ -17,6 +20,6 @@
 		]
 	},
 	"dependencies": {
-		"wee": "^2.1.0"
+		"wee": "^2.3.0"
 	}
 }
