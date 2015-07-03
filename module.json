@@ -1,9 +1,9 @@
 {
 	"name": "Module Name",
-	"description": "Module description.",
 	"version": "1.0.0",
-	"author": "Wee",
+	"description": "Module description.",
 	"homepage": "https://www.weepower.com",
+	"author": "Wee",
 	"autoload": true,
 	"data": {
 

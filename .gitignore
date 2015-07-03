@@ -9,36 +9,38 @@
 	# Tools
 #------------------------------------
 
-.idea
-.settings
 .bundle
-mixture.json
-prepros.json
-codekit-config.json
+.idea/
+.settings/
+.tern-project
+*.sublime-*
 browserstack.json
 BrowserStackLocal
-*.sublime-*
+codekit-config.json
+mixture.json
+prepros.json
 
 
 #------------------------------------
 	# System
 #------------------------------------
 
-Thumbs.db
+.cache
 .DS_Store
 .tmp
-.cache
 *.diff
-*.tmproj
 *.err
-*.orig
-*.swp
-*.out
 *.gem
-*.log
 *.lock
-*.vi
+*.log
+*.orig
+*.out
 *.pid
+*.swp
+*.tmproj
+*.vi
+error_log
+Thumbs.db
 
 
 #------------------------------------
