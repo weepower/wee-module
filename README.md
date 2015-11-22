@@ -1,10 +1,10 @@
 [![Wee](https://www.weepower.com/repo/logo.svg)](https://www.weepower.com)
 
-Template for creating Wee modules.
+Template for creating Wee modules. Read more in the [documentation](https://www.weepower.com/build/modules).
 
-## Installation
+## Get Started
 
-Get started using one of these methods:
+Install the module using one of these methods:
 
 * [Download the latest release](https://github.com/weepower/wee-module/archive/master.zip) or
 * Clone the repository from `git clone git://github.com/weepower/wee-module.git`
