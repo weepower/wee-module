@@ -5,9 +5,7 @@
 	"homepage": "https://www.weepower.com",
 	"author": "Wee",
 	"autoload": true,
-	"data": {
-
-	},
+	"data": {},
 	"style": {
 		"build": [
 			"css/variables.less",
